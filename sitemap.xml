@@ -3,43 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-04-17T22:35:05+08:00</lastmod>
+    <loc>/tags/kali/</loc>
+    <lastmod>2018-03-15T14:50:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2019-04-17T22:35:05+08:00</lastmod>
+    <loc>/tags/linux/</loc>
+    <lastmod>2018-03-15T14:50:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/posts/second/</loc>
-    <lastmod>2019-04-17T22:35:05+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/first/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
+    <loc>/post/</loc>
+    <lastmod>2018-03-15T14:50:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2018-03-15T14:50:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/laravel/</loc>
+    <loc>/tags/tools/</loc>
+    <lastmod>2018-03-15T14:50:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/php/</loc>
+    <loc>/</loc>
+    <lastmod>2018-03-15T14:50:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/msf/</loc>
+    <lastmod>2018-03-15T14:50:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
