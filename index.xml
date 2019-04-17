@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My site.</title>
+    <link>/</link>
+    <description>Recent content on My site.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Copyright (c) 2017, all rights reserved.</copyright>
+    <lastBuildDate>Wed, 17 Apr 2019 22:35:05 +0800</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Second</title>
+      <link>/posts/second/</link>
+      <pubDate>Wed, 17 Apr 2019 22:35:05 +0800</pubDate>
+      
+      <guid>/posts/second/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a user management system using Laravel</title>
+      <link>/posts/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/first/</guid>
+      <description>There&amp;rsquo;s no shortage of good resources for learning laravel. So instead of the usual introductory tutorial were just gonna learn Laravel by building a project from scratch and that&amp;rsquo;s gonna be a User Management System.
+I don&amp;rsquo;t know if my definition of a User Management System is correct but here&amp;rsquo;s my idea of what&amp;rsquo;s it&amp;rsquo;s capable of doing:
+ Register Roles Register Users Update Users Disable Users Update Transactions which can be performed by each role Login Users Limit Transactions that can be performed by each role  Yup!</description>
+    </item>
+    
+  </channel>
+</rss>
