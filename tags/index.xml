@@ -1,43 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 秋裤侠的安全博客</title>
+    <title>Tags on </title>
     <link>/tags/</link>
-    <description>Recent content in Tags on 秋裤侠的安全博客</description>
+    <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, all rights reserved.</copyright>
-    <lastBuildDate>Thu, 15 Mar 2018 14:50:54 +0000</lastBuildDate>
+    <language>en-US</language>
+    <copyright>Copyright (c) 2017, all rights reserved.</copyright>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Kali</title>
-      <link>/tags/kali/</link>
-      <pubDate>Thu, 15 Mar 2018 14:50:54 +0000</pubDate>
-      
-      <guid>/tags/kali/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>/tags/linux/</link>
-      <pubDate>Thu, 15 Mar 2018 14:50:54 +0000</pubDate>
-      
-      <guid>/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tools</title>
-      <link>/tags/tools/</link>
-      <pubDate>Thu, 15 Mar 2018 14:50:54 +0000</pubDate>
-      
-      <guid>/tags/tools/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

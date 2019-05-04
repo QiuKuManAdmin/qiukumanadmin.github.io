@@ -1,34 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on 秋裤侠的安全博客</title>
+    <title>Categories on </title>
     <link>/categories/</link>
-    <description>Recent content in Categories on 秋裤侠的安全博客</description>
+    <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <copyright>Copyright (c) 2019, all rights reserved.</copyright>
-    <lastBuildDate>Thu, 15 Mar 2018 14:50:54 +0000</lastBuildDate>
+    <language>en-US</language>
+    <copyright>Copyright (c) 2017, all rights reserved.</copyright>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>工具使用</title>
-      <link>/categories/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8/</link>
-      <pubDate>Thu, 15 Mar 2018 14:50:54 +0000</pubDate>
-      
-      <guid>/categories/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>渗透测试</title>
-      <link>/categories/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/</link>
-      <pubDate>Thu, 15 Mar 2018 14:50:54 +0000</pubDate>
-      
-      <guid>/categories/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
