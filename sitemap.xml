@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>qiukuman.com/</loc>
     <lastmod>2019-04-28T14:11:39+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>qiukuman.com/post/</loc>
     <lastmod>2019-04-28T14:11:39+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/test/</loc>
+    <loc>qiukuman.com/post/test/</loc>
     <lastmod>2019-04-28T14:11:39+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>qiukuman.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>qiukuman.com/tags/</loc>
     <priority>0</priority>
   </url>
   

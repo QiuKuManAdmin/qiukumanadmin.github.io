@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>/post/</link>
+    <link>qiukuman.com/post/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright (c) 2017, all rights reserved.</copyright>
     <lastBuildDate>Sun, 28 Apr 2019 14:11:39 +0800</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="qiukuman.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>/post/test/</link>
+      <link>qiukuman.com/post/test/</link>
       <pubDate>Sun, 28 Apr 2019 14:11:39 +0800</pubDate>
       
-      <guid>/post/test/</guid>
+      <guid>qiukuman.com/post/test/</guid>
       <description>Simple minimalistic dark theme for Hugo.
 Features  Responsive minimalistic design Configurable theme colors Syntax highlight with builtin Chroma OpenGraph, Twitter cards support Disqus comments support Google analytics (async) Configurable pagination for posts Lazy menu Custom 404 page  Installation $ mkdir themes $ cd themes $ git clone https://github.com/gyorb/hugo-dusk  Configuration Example configuration:
 baseurl = &amp;quot;/&amp;quot; title = &amp;quot;My site.&amp;quot; copyright = &amp;quot;Copyright (c) 2017, all rights reserved.&amp;quot; canonifyurls = true languageCode = &amp;quot;en-US&amp;quot; paginate = 3 theme = &amp;quot;hugo-dusk&amp;quot; googleAnalytics = &amp;quot;&amp;quot; disqusShortname = &amp;quot;&amp;quot; [author] name = &amp;quot;&amp;quot; SectionPagesMenu = &amp;quot;main&amp;quot; # use Chroma for syntax highlight pygmentsStyle = &amp;quot;native&amp;quot; # other dark style options: vim, fruity, monokai # enable syntax highlight for code blocks pygmentsCodeFences = true [params.</description>
